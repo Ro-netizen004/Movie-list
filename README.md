@@ -1,3 +1,4 @@
+Link to site: https://cinelist-movie-list.netlify.app/
 # Cinelist - Movie Cards React App
 
 A sleek and responsive React app that displays a list of movies as horizontally scrollable cards with a fixed header and footer. This project demonstrates component-based architecture, CSS Flexbox layouts, and fixed positioning for smooth user experience.
